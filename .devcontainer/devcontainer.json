@@ -1,5 +1,5 @@
 {
   "name": "filebrowser-dev",
-  "postCreateCommand": "./start.sh",
+  "postCreateCommand": "bash start.sh",
   "forwardPorts": [8080]
 }
